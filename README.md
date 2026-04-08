@@ -1,6 +1,6 @@
 ### 概要
-- docs/01_overview/テーマ.md
-- docs/01_overview/要件一覧.xlsx
+- docs/01_overview/テーマ.md✅
+- docs/01_overview/要件一覧.xlsx✅
 
 ### 設計
 - docs/02_design/画面設計書.xlsx
